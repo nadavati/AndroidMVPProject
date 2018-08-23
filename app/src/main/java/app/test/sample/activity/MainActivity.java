@@ -20,7 +20,7 @@ import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity implements DrawerPresenterImpl.DrawerView, NavigationView.OnNavigationItemSelectedListener {
 
-///SIva Nadavati
+///SIva Nadavati on 23 - 08 - 2018
     @BindView(R.id.toolbar) Toolbar toolbar;
     @BindView(R.id.drawer_layout) DrawerLayout drawerLayout;
     @BindView(R.id.nav_view) NavigationView navigationView;
